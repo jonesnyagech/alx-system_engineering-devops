@@ -1,2 +1,2 @@
 #!/bin/bash
-{ echo '.:'; ls -la; echo ''; echo '..:'; ls -la ..; echo ''; echo '/boot:'; ls -la /boot; } | column -t
+ls -la . .. /boot
