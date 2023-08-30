@@ -1,6 +1,2 @@
 #!/bin/bash
 ls -la
-cd $parent_dir
-ls -la
-cd /boot
-ls -la
